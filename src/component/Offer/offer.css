@@ -1,0 +1,55 @@
+.offer-section {
+    width: 100vw;
+    max-width: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    background-color: rgb(207, 201, 190);
+
+
+}
+
+.header{
+    width:fit-content;
+    background-color: rgb(99, 189, 154);
+    padding-top:20px;
+    margin: 0 auto;
+    margin-bottom: 25px;
+
+}
+.offer-container {
+    width: 85%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.single-offer {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    padding-bottom: 20px;
+}
+
+.single-offer-upper-section {
+    width: 100%;
+    height: 30%;
+    text-align: center;
+    background-color:white;
+    font-size: 50px;
+    padding-top: 10px;
+}
+.single-offer-bottom-section {
+    width: 100%;
+    height: 70%;
+    padding: 10px 5px 0 5px;
+    background-color:white;
+    text-align: center;
+}
+
+.offer-btn {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+
+}

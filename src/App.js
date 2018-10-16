@@ -8,7 +8,7 @@ import Portfolio from './component/Portfolio/portfolio';
 import Offer from './component/Offer/offer';
 import Team from './component/Team/team';
 import Footer from './component/Footer/footer';
-import ScrollToTop from 'react-scroll-up'
+
 import {Button } from 'react-bootstrap'
 
 
@@ -28,9 +28,7 @@ class App extends Component {
         <Team/>
         <Footer/>
 
-        <ScrollToTop showUnder={120} topPosition={0} >
-         <Button bsStyle="info"> <span> UP</span></Button>
-        </ScrollToTop>
+       
 
 
 

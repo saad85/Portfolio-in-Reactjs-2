@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 
+
 import Header from './component/Header/header';
 import Feature from './component/Feature/feature';
 import Portfolio from './component/Portfolio/portfolio';
@@ -10,9 +11,8 @@ import Footer from './component/Footer/footer';
 import ScrollToTop from 'react-scroll-up'
 import {Button } from 'react-bootstrap'
 
-import {Route,
-  NavLink,
-  Router} from 'react-router-dom'
+
+
 
 
 class App extends Component {

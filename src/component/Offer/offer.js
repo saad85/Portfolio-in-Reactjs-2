@@ -12,7 +12,7 @@ render(){
                     <div className="col-lg-4 col-md-12 col-sm-12 col-12 single-offer-container">
                         <div className="single-offer single-offer-1">
                             <div className="single-offer-upper-section">
-                                <i class="fa fa-briefcase"></i>
+                                <i className="fa fa-briefcase"></i>
                             </div>
                             <div className="single-offer-bottom-section">
                                 <h3>Demo offer one</h3>
@@ -24,7 +24,7 @@ render(){
                     <div className="col-lg-4 col-md-12 col-sm-12 col-12 single-offer-container single-offer-2">
                         <div className="single-offer single-offer-2">
                         <div className="single-offer-upper-section">
-                                <i class="fa fa-code"></i>
+                                <i className="fa fa-code"></i>
                             </div>
                             <div className="single-offer-bottom-section">
                                 <h3>Demo offer one</h3>
@@ -36,7 +36,7 @@ render(){
                     <div className="col-lg-4 col-md-12 col-sm-12 col-12 single-offer-container single-offer-3">
                         <div className="single-offer single-offer-3">
                         <div className="single-offer-upper-section">
-                                <i class="fa fa-file"></i>
+                                <i className="fa fa-file"></i>
                             </div>
                             <div className="single-offer-bottom-section">
                                 <h3>Demo offer one</h3>

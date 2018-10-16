@@ -9,10 +9,10 @@ class Footer extends React.Component {
                      <h1 className="footer-header">My Portfolio footer</h1>
                      <h3 className="footer-secondary-header">simply dummy text of the printing and typesetting industry. but also the leap</h3>
                      <ul className = "social-media-list">
-                        <li><i class="fa fa-facebook-f"></i></li>
-                        <li><i class="fa fa-instagram"></i></li>
-                        <li><i class="fa fa-twitter"></i></li>
-                        <li><i class="fa fa-linkedin"></i></li>
+                        <li><i className="fa fa-facebook-f"></i></li>
+                        <li><i className="fa fa-instagram"></i></li>
+                        <li><i className="fa fa-twitter"></i></li>
+                        <li><i className="fa fa-linkedin"></i></li>
                      </ul>
                 </div>
                 <div className = "footer-bottom-section">
@@ -20,8 +20,8 @@ class Footer extends React.Component {
                         <div className="col-lg-4 col-md-12 col-sm-12 col-12 footer-bottom-col footer-col-left">
                             <h5>Contact</h5>
                             <div className="contact-parent-box">
-                            <i class="fa fa-map-marker icon-left"></i>
-                            <i class="fa fa-envelope icon-right"></i>
+                            <i className="fa fa-map-marker icon-left"></i>
+                            <i className="fa fa-envelope icon-right"></i>
                             <div className="contact-box">
                                 <p>Mirpur, Dhaka, Bangladelsh</p>
                             </div>

@@ -17,7 +17,7 @@ class Feature extends React.Component {
                                 <p>This is a demo feature. This feature is very useful and awesome</p>
                             </section>
                             <section className = "feature-icon">
-                            <i class="fa fa-cogs"></i>
+                            <i className="fa fa-cogs"></i>
                             </section>
                         </div>
                         <div className="feature-item-div">
@@ -26,7 +26,7 @@ class Feature extends React.Component {
                                 <p>This is a demo feature. This feature is very useful and awesome</p>
                             </section>
                             <section className="feature-icon">
-                            <i class="fa fa-cogs"></i>
+                            <i className="fa fa-cogs"></i>
                             </section>
                         </div>
                         <div className="feature-item-div">
@@ -35,7 +35,7 @@ class Feature extends React.Component {
                                 <p>This is a demo feature. This feature is very useful and awesome</p>
                             </section>
                             <section className="feature-icon">
-                            <i class="fa fa-cogs"></i>
+                            <i className="fa fa-cogs"></i>
                              </section>
                         </div>
                     </div>
@@ -46,7 +46,7 @@ class Feature extends React.Component {
                     <div className="feature-item-div">
                             
                             <section className="feature-icon-right">
-                            <i class="fa fa-cogs"></i>
+                            <i className="fa fa-cogs"></i>
 
 
                             </section>
@@ -57,7 +57,7 @@ class Feature extends React.Component {
                         </div>
                         <div className="feature-item-div">
                         <section className="feature-icon-right">
-                        <i class="fa fa-cogs"></i>
+                        <i className="fa fa-cogs"></i>
 
                                 </section>
                                 <section className="feature-detail align-right">
@@ -67,7 +67,7 @@ class Feature extends React.Component {
                         </div>
                         <div className="feature-item-div">
                         <section className="feature-icon-right">
-                        <i class="fa fa-cogs"></i>
+                        <i className="fa fa-cogs"></i>
 
 
                                 </section>
